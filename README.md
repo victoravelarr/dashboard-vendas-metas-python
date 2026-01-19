@@ -81,5 +81,4 @@ Projeto desenvolvido com foco em aprendizado prático em análise de dados e vis
 
 Autor
 
-Victor Cordeiro Avelar
-Estudante | Python | Análise de Dados | Tecnologia
+Victor Cordeiro Avelar - Estudante | Python | Análise de Dados | Tecnologia
